@@ -1,0 +1,7 @@
+.navbar {
+    position: fixed; /* Fija la barra en la pantalla */
+    top: 0; /* Coloca la barra en la parte superior */
+    left: 0; /* Alinea la barra al borde izquierdo */
+    width: 100%; /* Hace que la barra ocupe todo el ancho de la pantalla */
+    z-index: 1000; /* Asegura que la barra esté por encima de otros elementos */
+}
